@@ -8,7 +8,7 @@
   </p>
   <br />
   <p>
-    <strong>Live demo:</strong> <em>[ethanol-india.vercel.app]</em>
+    <strong>Live demo:</strong> <em>https://ethanol-india.vercel.app/</em>
   </p>
   <br />
 </div>
